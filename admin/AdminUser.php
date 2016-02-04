@@ -1,10 +1,6 @@
 <?php
 require_once 'password.php';
-/**
- * Class used to both store information about a user, and authenticate them.
- * @author Matt LaCasse
- *
- */
+
 class AdminUser{
 	/**
 	 * Admin user's first name.
