@@ -1,10 +1,6 @@
 <?php
 
-/**
- * Description of menuItem
- *
- * @author Matt
- */
+
 class menuItem {
     private $itemName;
     private $price;
